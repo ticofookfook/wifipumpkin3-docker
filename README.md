@@ -31,9 +31,9 @@ docker build -t wifipumpkin3 .
 
 1. **Clone ou baixe o script:**
 ```bash
-wget https://seu-repositorio.com/wifipumpkin3.sh
+wget https://github.com/ticofookfook/wifipumpkin3-docker/wifipumpkin3.sh
 # ou
-curl -O https://seu-repositorio.com/wifipumpkin3.sh
+curl -O https://github.com/ticofookfook/wifipumpkin3-docker/wifipumpkin3.sh
 ```
 
 2. **Torne o script executável:**
